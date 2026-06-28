@@ -1,0 +1,101 @@
+order_id,customer,product,amount,country,tax,final_amount
+1,Tiffany Thomas,use,1993,Saint Lucia,358.74,2351.74
+2,Tiffany Hood,key,3237,Maldives,582.66,3819.66
+3,Eric Phillips,mission,3142,Gibraltar,565.56,3707.56
+4,Monica Owen,pretty,1702,Burundi,306.36,2008.3600000000001
+5,Frank Hubbard,tree,2092,Saint Lucia,376.56,2468.56
+6,Rebecca Rodgers,growth,711,Luxembourg,127.97999999999999,838.98
+7,Katie Adams,listen,2402,Suriname,432.35999999999996,2834.36
+8,Jason Cook,research,839,France,151.01999999999998,990.02
+9,Jessica Reese,shoulder,3289,Antarctica (the territory South of 60 deg S),592.02,3881.02
+10,Michael Adams,capital,479,Equatorial Guinea,86.22,565.22
+11,Roger Martin,force,289,Finland,52.019999999999996,341.02
+12,Richard Zavala,candidate,3703,French Polynesia,666.54,4369.54
+13,Kyle Fuentes DDS,hospital,3326,Mayotte,598.68,3924.68
+14,Steven Thompson,level,516,Chad,92.88,608.88
+15,Ashley Baker,step,2670,Svalbard & Jan Mayen Islands,480.59999999999997,3150.6
+16,Mary Bailey,station,1678,Ecuador,302.03999999999996,1980.04
+17,Walter Mcguire,practice,4432,Czech Republic,797.76,5229.76
+18,Rachel French,remain,4520,Egypt,813.6,5333.6
+19,Sean Casey,player,2846,Saint Barthelemy,512.28,3358.2799999999997
+20,Robin King,somebody,3300,Aruba,594.0,3894.0
+21,Erin Osborne,some,921,Indonesia,165.78,1086.78
+22,Anna Guzman,court,3708,Cote d'Ivoire,667.4399999999999,4375.44
+23,Carrie Giles,hard,1949,Nepal,350.82,2299.82
+24,Jessica Martinez,according,2848,Bhutan,512.64,3360.64
+25,Eric Castaneda,international,214,Falkland Islands (Malvinas),38.519999999999996,252.51999999999998
+26,Luis Mitchell,PM,176,Congo,31.68,207.68
+27,William Boone,ability,558,Burundi,100.44,658.44
+28,Valerie Long,section,4305,Bermuda,774.9,5079.9
+29,Andrew Clark,certain,1798,Mongolia,323.64,2121.64
+30,Christine Brown,like,2975,Azerbaijan,535.5,3510.5
+31,Aaron Miller,center,1185,Taiwan,213.29999999999998,1398.3
+32,Ryan Graves,senior,2906,Denmark,523.0799999999999,3429.08
+33,Sara Alvarez,fly,3130,Kyrgyz Republic,563.4,3693.4
+34,Paul Johnson,hospital,4084,Samoa,735.12,4819.12
+35,Steven Chung,face,2266,Sweden,407.88,2673.88
+36,Nicholas Rodriguez,direction,2682,Oman,482.76,3164.76
+37,Tami Hart,despite,1256,Uganda,226.07999999999998,1482.08
+38,Courtney Vasquez,brother,439,Timor-Leste,79.02,518.02
+39,Thomas Carr,understand,635,Jersey,114.3,749.3
+40,Jennifer Campos,whole,3674,Central African Republic,661.3199999999999,4335.32
+41,Andrew Curry,author,3405,Cyprus,612.9,4017.9
+42,John Gutierrez,him,2508,Chile,451.44,2959.44
+43,Richard Wall,human,1882,Aruba,338.76,2220.76
+44,Kayla Boone,early,1117,Ukraine,201.06,1318.06
+45,Carla Williams,risk,2440,Pakistan,439.2,2879.2
+46,Elijah Combs,put,3741,Grenada,673.38,4414.38
+47,Michael Cameron,piece,1526,Rwanda,274.68,1800.68
+48,William Green,computer,3114,Togo,560.52,3674.52
+49,Alicia Rodriguez,discuss,2826,Cayman Islands,508.68,3334.68
+50,Brian Miller,protect,1042,New Zealand,187.56,1229.56
+51,Elizabeth Powell,company,1396,Mali,251.28,1647.28
+52,Amy Clark,student,444,Lao People's Democratic Republic,79.92,523.92
+53,Karen Vargas,table,1438,United States Virgin Islands,258.84,1696.84
+54,Gene Farmer,quite,4855,Saint Helena,873.9,5728.9
+55,Victor Green,upon,1988,Holy See (Vatican City State),357.84,2345.84
+56,Emily Rodriguez,believe,2077,Bosnia and Herzegovina,373.86,2450.86
+57,Amanda Gillespie,their,2623,Saint Vincent and the Grenadines,472.14,3095.14
+58,Austin White,fish,2693,Senegal,484.74,3177.74
+59,Susan Mata,put,2849,Tanzania,512.8199999999999,3361.8199999999997
+60,Trevor Ruiz,never,4578,British Indian Ocean Territory (Chagos Archipelago),824.04,5402.04
+61,Deanna Wilkinson,food,847,Gabon,152.46,999.46
+62,Jeffery Barron,project,4856,North Macedonia,874.0799999999999,5730.08
+63,Troy Petersen,decision,589,Honduras,106.02,695.02
+64,Andrea Woods,response,3956,Malaysia,712.0799999999999,4668.08
+65,Jesse Nixon,bar,3464,Djibouti,623.52,4087.52
+66,Sandra Frye,just,2815,Taiwan,506.7,3321.7
+67,Matthew Horton,activity,4182,Switzerland,752.76,4934.76
+68,Christine Russell,enjoy,3568,Ghana,642.24,4210.24
+69,Brandon Rhodes,wrong,1608,Guernsey,289.44,1897.44
+70,Megan Edwards,company,4183,Bulgaria,752.9399999999999,4935.94
+71,Catherine Stephens,enter,3336,Italy,600.48,3936.48
+72,Cassandra Williamson,head,2913,Jersey,524.34,3437.34
+73,Mrs. Vanessa Payne DDS,professor,2317,Guyana,417.06,2734.06
+74,Diana Foster,interesting,4942,Brunei Darussalam,889.56,5831.5599999999995
+75,Sierra Taylor,hard,4075,Nepal,733.5,4808.5
+76,Scott Miller,understand,4899,Korea,881.8199999999999,5780.82
+77,Kendra Morris,network,2736,Kuwait,492.47999999999996,3228.48
+78,Frank Martin,very,1813,Gibraltar,326.34,2139.34
+79,Jessica Mendez,sing,3665,Tunisia,659.6999999999999,4324.7
+80,Allison Daniels DDS,question,3342,Saint Pierre and Miquelon,601.56,3943.56
+81,John Hood,safe,1913,Lao People's Democratic Republic,344.34,2257.34
+82,Rhonda Wright,decade,2482,Cayman Islands,446.76,2928.76
+83,Brittany Porter,hit,4925,Colombia,886.5,5811.5
+84,Kathleen Oconnor,least,1932,Saint Martin,347.76,2279.76
+85,Casey Wang,way,4616,Lao People's Democratic Republic,830.88,5446.88
+86,Mrs. Carol Kelly,cold,1978,Jordan,356.03999999999996,2334.04
+87,Travis Matthews,yourself,542,North Macedonia,97.56,639.56
+88,Candace Vazquez,fill,466,Andorra,83.88,549.88
+89,Chelsea Phillips,top,2403,Kiribati,432.53999999999996,2835.54
+90,Mrs. Melissa Mcintosh,argue,3420,Saint Vincent and the Grenadines,615.6,4035.6
+91,Julia Davis,improve,3507,Kazakhstan,631.26,4138.26
+92,Sheila Mcgrath,major,1110,Taiwan,199.79999999999998,1309.8
+93,Austin Martin,daughter,1110,Botswana,199.79999999999998,1309.8
+94,Lori Williams,upon,449,Guernsey,80.82,529.8199999999999
+95,Joseph Ibarra,point,3418,Ukraine,615.24,4033.24
+96,Melvin Cochran,bad,115,Belize,20.7,135.7
+97,Christopher Daniels,most,1718,Myanmar,309.24,2027.24
+98,Joshua Perez,those,4128,Cook Islands,743.04,4871.04
+99,Michelle Freeman,option,2281,Heard Island and McDonald Islands,410.58,2691.58
+100,Brian Jones,heart,4384,Palestinian Territory,789.12,5173.12
